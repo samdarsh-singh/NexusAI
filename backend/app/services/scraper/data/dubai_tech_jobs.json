@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Junior Backend Engineer",
+    "company": "Careem",
+    "location": "Dubai, UAE",
+    "description": "About the Role:\nCareem is looking for a Senior Backend Engineer to join our Super App team. You will be responsible for building high-scale microservices that power millions of rides and orders daily.\n\nKey Responsibilities:\n- Design and implement scalable RESTful APIs using Python (FastAPI/Django).\n- Optimize database performance (PostgreSQL, Redis).\n- Work with asynchronous task queues (Celery/RabbitMQ).\n- Collaborate with mobile and frontend teams.\n- Ensure high availability and reliability of services.\n\nRequirements:\n- 5+ years of experience in backend development.\n- Expert in Python, FastAPI, and SQL.\n- Experience with Docker, Kubernetes, and AWS.\n- Strong understanding of distributed systems and microservices.\n- Experience with Event-Driven Architecture (Kafka) is a plus.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-19T13:33:15.808093",
+    "source": "LinkedIn",
+    "external_id": "973b4778-68d0-4239-b8e6-3312789a881c"
+  },
+  {
+    "title": "Mid-Level Frontend Engineer",
+    "company": "Talabat",
+    "location": "Dubai, UAE",
+    "description": "Join Talabat, the leading food delivery platform in the MENA region. We are scaling our tech team and looking for a Full Stack Developer to build delightful user experiences.\n\nWhat you will do:\n- Develop responsive web applications using React.js, TypeScript, and Tailwind CSS.\n- Build robust backend services with Node.js and Express.\n- Integrate with third-party APIs (Maps, Payments).\n- Write clean, testable code (Jest, Cypress).\n\nWhat we look for:\n- 3+ years of full stack experience.\n- Proficiency in JavaScript/TypeScript, React, and Node.js.\n- Experience with MongoDB and PostgreSQL.\n- Familiarity with CI/CD pipelines (GitHub Actions).\n- Passion for UI/UX and performance optimization.",
+    "salary": "AED 18,000 - 25,000 / Month",
+    "posted_at": "2026-02-19T11:33:15.808107",
+    "source": "Indeed",
+    "external_id": "be4f0c7f-735d-4523-9003-9c28168bedb0"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "company": "Noon",
+    "location": "Dubai, UAE",
+    "description": "Noon IT is seeking a skilled DevOps Engineer to manage our cloud infrastructure and deployment pipelines.\n\nResponsibilities:\n- Manage AWS infrastructure using Terraform (IaC).\n- Automate deployment workflows using Jenkins and GitLab CI.\n- Monitor system health using Prometheus, Grafana, and ELK Stack.\n- Ensure security best practices in cloud environments.\n- Manage Kubernetes clusters (EKS).\n\nQualifications:\n- 4+ years of DevOps/SRE experience.\n- Strong AWS knowledge (EC2, S3, RDS, Lambda, VPC).\n- Proficiency in Linux scripting (Bash/Python).\n- Hands-on experience with Docker and Kubernetes.\n- Certified AWS Solutions Architect is preferred.",
+    "salary": "AED 22,000 - 30,000 / Month",
+    "posted_at": "2026-02-19T09:33:15.808113",
+    "source": "NaukriGulf",
+    "external_id": "3714ff9c-1bb1-4fbd-a115-8a84a84fb12a"
+  },
+  {
+    "title": "Lead DevOps Engineer",
+    "company": "Emirates Group",
+    "location": "Abu Dhabi, UAE",
+    "description": "Emirates Group is at the forefront of AI innovation. We are looking for an AI Engineer to build Large Language Model (LLM) applications.\n\nRole:\n- Fine-tune and deploy LLMs (Llama 3, Mistral) for enterprise use cases.\n- Build RAG (Retrieval Augmented Generation) pipelines using LangChain and Vector Databases (Pinecone/Milvus).\n- Optimize model inference latency.\n- Work with data scientists to productize ML models.\n\nStack:\n- Python, PyTorch, TensorFlow.\n- HuggingFace Transformers, LangChain.\n- Docker, FastAPI for model serving.\n- Cloud: Azure / AWS.\n\nRequirements:\n- Masters in CS/AI or equivalent experience.\n- 3+ years in Machine Learning engineering.\n- Experience with NLP and Generative AI.",
+    "salary": "AED 30,000 - 45,000 / Month",
+    "posted_at": "2026-02-19T07:33:15.808123",
+    "source": "LinkedIn",
+    "external_id": "2f5e459c-53f9-4bde-a38e-3b804f721a89"
+  },
+  {
+    "title": "Staff Data Engineer",
+    "company": "Tabby",
+    "location": "Dubai, UAE",
+    "description": "Tabby is the Middle East's homegrown online marketplace. We are looking for a Senior Frontend Engineer to lead our consumer-facing web team.\n\nResponsibilities:\n- Architect and build scalable frontend applications using Next.js.\n- Optimize Core Web Vitals and SEO performance.\n- Mentor junior developers and conduct code reviews.\n- Collaborate with designers on the Design System.\n\nTech Stack:\n- React, Next.js, Redux/Zustand.\n- SCSS / Tailwind / Styled Components.\n- Webpack / Vite.\n\nRequirements:\n- 5+ years of frontend development.\n- Deep understanding of DOM, CSS, and JS runtime.\n- Experience with high-traffic e-commerce sites.",
+    "salary": "AED 28,000 - 38,000 / Month",
+    "posted_at": "2026-02-19T05:33:15.808128",
+    "source": "LinkedIn",
+    "external_id": "630be6ad-4b07-419e-9aec-56371bbdc2a6"
+  },
+  {
+    "title": "Principal AI/ML Engineer",
+    "company": "G42",
+    "location": "Dubai, UAE",
+    "description": "G42 is revolutionizing shopping in MENA. We need a Product Manager to drive our 'Shop Now Pay Later' product.\n\nRole:\n- Define product roadmap and strategy.\n- Work with engineering and design to deliver features.\n- Analyze user data to make informed decisions.\n- Manage stakeholder expectations.\n\nRequirements:\n- 4+ years of Product Management experience in Fintech.\n- Strong analytical skills (SQL, Amplitude).\n- Experience with Agile/Scrum.\n- Excellent communication skills.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-19T03:33:15.808139",
+    "source": "Indeed",
+    "external_id": "5db40843-c302-45c9-9b54-50f483008c8d"
+  },
+  {
+    "title": "Junior Product Manager",
+    "company": "Kitopi",
+    "location": "Abu Dhabi, UAE",
+    "description": "Protect critical infrastructure from cyber threats. Monitor SOC alerts, conduct vulnerability assessments, and respond to incidents.\n\nSkills:\n- SIEM (Splunk, QRadar).\n- Network Security (Firewalls, IDS/IPS).\n- Penetration Testing tools (Metasploit, Burp Suite).\n- Incident Response frameworks (NIST).\n\nCertifications:\n- CISSP, CEH, or OSCP preferred.",
+    "salary": "AED 20,000 - 28,000 / Month",
+    "posted_at": "2026-02-19T01:33:15.808144",
+    "source": "NaukriGulf",
+    "external_id": "8ddfdf52-8b35-4f7b-ba90-3e8a004d9bce"
+  },
+  {
+    "title": "Mid-Level Security Engineer",
+    "company": "PropertyFinder",
+    "location": "Dubai, UAE",
+    "description": "PropertyFinder is the world's leading cloud kitchen platform. We handle massive amounts of food order data.\n\nRole:\n- Build scalable data pipelines (ETL/ELT) using Airflow and dbt.\n- Manage Data Warehouse (Snowflake / BigQuery).\n- Implement real-time data streaming with Kafka.\n- Ensure data quality and governance.\n\nTech:\n- Python, SQL (Advanced).\n- Spark, Kafka, Airflow.\n- AWS/GCP data services.",
+    "salary": "AED 27,000 - 37,000 / Month",
+    "posted_at": "2026-02-18T23:33:15.808153",
+    "source": "LinkedIn",
+    "external_id": "1662447d-df28-409a-8824-902f6948a71c"
+  },
+  {
+    "title": "Senior Backend Engineer",
+    "company": "Dubizzle",
+    "location": "Dubai, UAE",
+    "description": "Dubizzle is the leading classifieds platform. We are rewriting our core services in Python.\n\nRole:\n- Rewrite legacy PHP monoliths into Python Microservices.\n- Maintain high code quality and test coverage.\n- Work with PostgreSQL and Elasticsearch.\n\nRequirements:\n- 3+ years in Python (Django/Flask/FastAPI).\n- Experience with REST APIs and GraphQL.\n- Familiarity with search engines (Elasticsearch/Solr).",
+    "salary": "AED 18,000 - 26,000 / Month",
+    "posted_at": "2026-02-18T21:33:15.808159",
+    "source": "Indeed",
+    "external_id": "564aad4c-af05-44be-8f60-9b09216e4427"
+  },
+  {
+    "title": "Lead Frontend Engineer",
+    "company": "DarkMatter",
+    "location": "Dubai, UAE",
+    "description": "Lead the technical direction for DarkMatter's search experience.\n\nRole:\n- Design high-availability systems.\n- Solve complex distributed system problems.\n- Mentor senior engineers.\n- Drive technical strategy.\n\nRequirements:\n- 10+ years of software engineering.\n- Proven track record of designing systems at scale.\n- Polyglot (Go, Python, PHP, or Java).\n- Deep database knowledge.",
+    "salary": "AED 45,000 - 60,000 / Month",
+    "posted_at": "2026-02-18T19:33:15.808163",
+    "source": "LinkedIn",
+    "external_id": "c5060ab8-27cc-4603-920f-6a429fa0932c"
+  },
+  {
+    "title": "Staff Full Stack Engineer",
+    "company": "Etisalat",
+    "location": "Dubai, UAE",
+    "description": "About the Role:\nEtisalat is looking for a Senior Backend Engineer to join our Super App team. You will be responsible for building high-scale microservices that power millions of rides and orders daily.\n\nKey Responsibilities:\n- Design and implement scalable RESTful APIs using Python (FastAPI/Django).\n- Optimize database performance (PostgreSQL, Redis).\n- Work with asynchronous task queues (Celery/RabbitMQ).\n- Collaborate with mobile and frontend teams.\n- Ensure high availability and reliability of services.\n\nRequirements:\n- 5+ years of experience in backend development.\n- Expert in Python, FastAPI, and SQL.\n- Experience with Docker, Kubernetes, and AWS.\n- Strong understanding of distributed systems and microservices.\n- Experience with Event-Driven Architecture (Kafka) is a plus.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-18T17:33:15.808167",
+    "source": "LinkedIn",
+    "external_id": "e471effc-983e-42b2-93b3-2c98ffa861ef"
+  },
+  {
+    "title": "Principal DevOps Engineer",
+    "company": "Du",
+    "location": "Dubai, UAE",
+    "description": "Join Du, the leading food delivery platform in the MENA region. We are scaling our tech team and looking for a Full Stack Developer to build delightful user experiences.\n\nWhat you will do:\n- Develop responsive web applications using React.js, TypeScript, and Tailwind CSS.\n- Build robust backend services with Node.js and Express.\n- Integrate with third-party APIs (Maps, Payments).\n- Write clean, testable code (Jest, Cypress).\n\nWhat we look for:\n- 3+ years of full stack experience.\n- Proficiency in JavaScript/TypeScript, React, and Node.js.\n- Experience with MongoDB and PostgreSQL.\n- Familiarity with CI/CD pipelines (GitHub Actions).\n- Passion for UI/UX and performance optimization.",
+    "salary": "AED 18,000 - 25,000 / Month",
+    "posted_at": "2026-02-18T15:33:15.808172",
+    "source": "Indeed",
+    "external_id": "b27cf5b5-584f-46ee-9281-6d4f4132f4f8"
+  },
+  {
+    "title": "Junior Data Engineer",
+    "company": "Mubadala",
+    "location": "Dubai, UAE",
+    "description": "Mubadala IT is seeking a skilled DevOps Engineer to manage our cloud infrastructure and deployment pipelines.\n\nResponsibilities:\n- Manage AWS infrastructure using Terraform (IaC).\n- Automate deployment workflows using Jenkins and GitLab CI.\n- Monitor system health using Prometheus, Grafana, and ELK Stack.\n- Ensure security best practices in cloud environments.\n- Manage Kubernetes clusters (EKS).\n\nQualifications:\n- 4+ years of DevOps/SRE experience.\n- Strong AWS knowledge (EC2, S3, RDS, Lambda, VPC).\n- Proficiency in Linux scripting (Bash/Python).\n- Hands-on experience with Docker and Kubernetes.\n- Certified AWS Solutions Architect is preferred.",
+    "salary": "AED 22,000 - 30,000 / Month",
+    "posted_at": "2026-02-18T13:33:15.808176",
+    "source": "NaukriGulf",
+    "external_id": "f1c50777-9cda-41a2-8d0e-f6248a89b935"
+  },
+  {
+    "title": "Mid-Level AI/ML Engineer",
+    "company": "ADNOC",
+    "location": "Abu Dhabi, UAE",
+    "description": "ADNOC is at the forefront of AI innovation. We are looking for an AI Engineer to build Large Language Model (LLM) applications.\n\nRole:\n- Fine-tune and deploy LLMs (Llama 3, Mistral) for enterprise use cases.\n- Build RAG (Retrieval Augmented Generation) pipelines using LangChain and Vector Databases (Pinecone/Milvus).\n- Optimize model inference latency.\n- Work with data scientists to productize ML models.\n\nStack:\n- Python, PyTorch, TensorFlow.\n- HuggingFace Transformers, LangChain.\n- Docker, FastAPI for model serving.\n- Cloud: Azure / AWS.\n\nRequirements:\n- Masters in CS/AI or equivalent experience.\n- 3+ years in Machine Learning engineering.\n- Experience with NLP and Generative AI.",
+    "salary": "AED 30,000 - 45,000 / Month",
+    "posted_at": "2026-02-18T11:33:15.808180",
+    "source": "LinkedIn",
+    "external_id": "3a1a8f64-cb1b-4c58-b709-de26d4a4b48a"
+  },
+  {
+    "title": "Senior Product Manager",
+    "company": "Careem",
+    "location": "Dubai, UAE",
+    "description": "Careem is the Middle East's homegrown online marketplace. We are looking for a Senior Frontend Engineer to lead our consumer-facing web team.\n\nResponsibilities:\n- Architect and build scalable frontend applications using Next.js.\n- Optimize Core Web Vitals and SEO performance.\n- Mentor junior developers and conduct code reviews.\n- Collaborate with designers on the Design System.\n\nTech Stack:\n- React, Next.js, Redux/Zustand.\n- SCSS / Tailwind / Styled Components.\n- Webpack / Vite.\n\nRequirements:\n- 5+ years of frontend development.\n- Deep understanding of DOM, CSS, and JS runtime.\n- Experience with high-traffic e-commerce sites.",
+    "salary": "AED 28,000 - 38,000 / Month",
+    "posted_at": "2026-02-18T09:33:15.808184",
+    "source": "LinkedIn",
+    "external_id": "19df1564-1e18-4ba5-a500-ec1a42233a99"
+  },
+  {
+    "title": "Lead Security Engineer",
+    "company": "Talabat",
+    "location": "Dubai, UAE",
+    "description": "Talabat is revolutionizing shopping in MENA. We need a Product Manager to drive our 'Shop Now Pay Later' product.\n\nRole:\n- Define product roadmap and strategy.\n- Work with engineering and design to deliver features.\n- Analyze user data to make informed decisions.\n- Manage stakeholder expectations.\n\nRequirements:\n- 4+ years of Product Management experience in Fintech.\n- Strong analytical skills (SQL, Amplitude).\n- Experience with Agile/Scrum.\n- Excellent communication skills.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-18T07:33:15.808189",
+    "source": "Indeed",
+    "external_id": "d07a1844-d931-4efd-b1a5-a02d883a7164"
+  },
+  {
+    "title": "Staff Backend Engineer",
+    "company": "Noon",
+    "location": "Abu Dhabi, UAE",
+    "description": "Protect critical infrastructure from cyber threats. Monitor SOC alerts, conduct vulnerability assessments, and respond to incidents.\n\nSkills:\n- SIEM (Splunk, QRadar).\n- Network Security (Firewalls, IDS/IPS).\n- Penetration Testing tools (Metasploit, Burp Suite).\n- Incident Response frameworks (NIST).\n\nCertifications:\n- CISSP, CEH, or OSCP preferred.",
+    "salary": "AED 20,000 - 28,000 / Month",
+    "posted_at": "2026-02-18T05:33:15.808193",
+    "source": "NaukriGulf",
+    "external_id": "58fe70c4-4421-4a22-8b8a-12c76610a84a"
+  },
+  {
+    "title": "Principal Frontend Engineer",
+    "company": "Emirates Group",
+    "location": "Dubai, UAE",
+    "description": "Emirates Group is the world's leading cloud kitchen platform. We handle massive amounts of food order data.\n\nRole:\n- Build scalable data pipelines (ETL/ELT) using Airflow and dbt.\n- Manage Data Warehouse (Snowflake / BigQuery).\n- Implement real-time data streaming with Kafka.\n- Ensure data quality and governance.\n\nTech:\n- Python, SQL (Advanced).\n- Spark, Kafka, Airflow.\n- AWS/GCP data services.",
+    "salary": "AED 27,000 - 37,000 / Month",
+    "posted_at": "2026-02-18T03:33:15.808196",
+    "source": "LinkedIn",
+    "external_id": "aabc857d-acb2-45ed-b096-7f2f48482543"
+  },
+  {
+    "title": "Junior Full Stack Engineer",
+    "company": "Tabby",
+    "location": "Dubai, UAE",
+    "description": "Tabby is the leading classifieds platform. We are rewriting our core services in Python.\n\nRole:\n- Rewrite legacy PHP monoliths into Python Microservices.\n- Maintain high code quality and test coverage.\n- Work with PostgreSQL and Elasticsearch.\n\nRequirements:\n- 3+ years in Python (Django/Flask/FastAPI).\n- Experience with REST APIs and GraphQL.\n- Familiarity with search engines (Elasticsearch/Solr).",
+    "salary": "AED 18,000 - 26,000 / Month",
+    "posted_at": "2026-02-18T01:33:15.808200",
+    "source": "Indeed",
+    "external_id": "5836c5d1-c7a1-484f-8742-5b72d2633e58"
+  },
+  {
+    "title": "Mid-Level DevOps Engineer",
+    "company": "G42",
+    "location": "Dubai, UAE",
+    "description": "Lead the technical direction for G42's search experience.\n\nRole:\n- Design high-availability systems.\n- Solve complex distributed system problems.\n- Mentor senior engineers.\n- Drive technical strategy.\n\nRequirements:\n- 10+ years of software engineering.\n- Proven track record of designing systems at scale.\n- Polyglot (Go, Python, PHP, or Java).\n- Deep database knowledge.",
+    "salary": "AED 45,000 - 60,000 / Month",
+    "posted_at": "2026-02-17T23:33:15.808204",
+    "source": "LinkedIn",
+    "external_id": "95a0c8a3-4a5f-4f45-89ae-43f0796fed54"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Kitopi",
+    "location": "Dubai, UAE",
+    "description": "About the Role:\nKitopi is looking for a Senior Backend Engineer to join our Super App team. You will be responsible for building high-scale microservices that power millions of rides and orders daily.\n\nKey Responsibilities:\n- Design and implement scalable RESTful APIs using Python (FastAPI/Django).\n- Optimize database performance (PostgreSQL, Redis).\n- Work with asynchronous task queues (Celery/RabbitMQ).\n- Collaborate with mobile and frontend teams.\n- Ensure high availability and reliability of services.\n\nRequirements:\n- 5+ years of experience in backend development.\n- Expert in Python, FastAPI, and SQL.\n- Experience with Docker, Kubernetes, and AWS.\n- Strong understanding of distributed systems and microservices.\n- Experience with Event-Driven Architecture (Kafka) is a plus.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-17T21:33:15.808208",
+    "source": "LinkedIn",
+    "external_id": "4012998c-60d4-41ad-8f55-f4234187c5d3"
+  },
+  {
+    "title": "Lead AI/ML Engineer",
+    "company": "PropertyFinder",
+    "location": "Dubai, UAE",
+    "description": "Join PropertyFinder, the leading food delivery platform in the MENA region. We are scaling our tech team and looking for a Full Stack Developer to build delightful user experiences.\n\nWhat you will do:\n- Develop responsive web applications using React.js, TypeScript, and Tailwind CSS.\n- Build robust backend services with Node.js and Express.\n- Integrate with third-party APIs (Maps, Payments).\n- Write clean, testable code (Jest, Cypress).\n\nWhat we look for:\n- 3+ years of full stack experience.\n- Proficiency in JavaScript/TypeScript, React, and Node.js.\n- Experience with MongoDB and PostgreSQL.\n- Familiarity with CI/CD pipelines (GitHub Actions).\n- Passion for UI/UX and performance optimization.",
+    "salary": "AED 18,000 - 25,000 / Month",
+    "posted_at": "2026-02-17T19:33:15.808212",
+    "source": "Indeed",
+    "external_id": "65047483-cd23-4e7f-bce6-98c557f1d6b2"
+  },
+  {
+    "title": "Staff Product Manager",
+    "company": "Dubizzle",
+    "location": "Dubai, UAE",
+    "description": "Dubizzle IT is seeking a skilled DevOps Engineer to manage our cloud infrastructure and deployment pipelines.\n\nResponsibilities:\n- Manage AWS infrastructure using Terraform (IaC).\n- Automate deployment workflows using Jenkins and GitLab CI.\n- Monitor system health using Prometheus, Grafana, and ELK Stack.\n- Ensure security best practices in cloud environments.\n- Manage Kubernetes clusters (EKS).\n\nQualifications:\n- 4+ years of DevOps/SRE experience.\n- Strong AWS knowledge (EC2, S3, RDS, Lambda, VPC).\n- Proficiency in Linux scripting (Bash/Python).\n- Hands-on experience with Docker and Kubernetes.\n- Certified AWS Solutions Architect is preferred.",
+    "salary": "AED 22,000 - 30,000 / Month",
+    "posted_at": "2026-02-17T17:33:15.808216",
+    "source": "NaukriGulf",
+    "external_id": "635c0165-1fce-47b2-a31a-9fbac9bf9aa3"
+  },
+  {
+    "title": "Principal Security Engineer",
+    "company": "DarkMatter",
+    "location": "Abu Dhabi, UAE",
+    "description": "DarkMatter is at the forefront of AI innovation. We are looking for an AI Engineer to build Large Language Model (LLM) applications.\n\nRole:\n- Fine-tune and deploy LLMs (Llama 3, Mistral) for enterprise use cases.\n- Build RAG (Retrieval Augmented Generation) pipelines using LangChain and Vector Databases (Pinecone/Milvus).\n- Optimize model inference latency.\n- Work with data scientists to productize ML models.\n\nStack:\n- Python, PyTorch, TensorFlow.\n- HuggingFace Transformers, LangChain.\n- Docker, FastAPI for model serving.\n- Cloud: Azure / AWS.\n\nRequirements:\n- Masters in CS/AI or equivalent experience.\n- 3+ years in Machine Learning engineering.\n- Experience with NLP and Generative AI.",
+    "salary": "AED 30,000 - 45,000 / Month",
+    "posted_at": "2026-02-17T15:33:15.808220",
+    "source": "LinkedIn",
+    "external_id": "6120e2c4-474a-4b11-896b-ea8772e5c0b0"
+  },
+  {
+    "title": "Junior Backend Engineer",
+    "company": "Etisalat",
+    "location": "Dubai, UAE",
+    "description": "Etisalat is the Middle East's homegrown online marketplace. We are looking for a Senior Frontend Engineer to lead our consumer-facing web team.\n\nResponsibilities:\n- Architect and build scalable frontend applications using Next.js.\n- Optimize Core Web Vitals and SEO performance.\n- Mentor junior developers and conduct code reviews.\n- Collaborate with designers on the Design System.\n\nTech Stack:\n- React, Next.js, Redux/Zustand.\n- SCSS / Tailwind / Styled Components.\n- Webpack / Vite.\n\nRequirements:\n- 5+ years of frontend development.\n- Deep understanding of DOM, CSS, and JS runtime.\n- Experience with high-traffic e-commerce sites.",
+    "salary": "AED 28,000 - 38,000 / Month",
+    "posted_at": "2026-02-17T13:33:15.808224",
+    "source": "LinkedIn",
+    "external_id": "d8037814-92b3-49c9-85ec-a137f654e73c"
+  },
+  {
+    "title": "Mid-Level Frontend Engineer",
+    "company": "Du",
+    "location": "Dubai, UAE",
+    "description": "Du is revolutionizing shopping in MENA. We need a Product Manager to drive our 'Shop Now Pay Later' product.\n\nRole:\n- Define product roadmap and strategy.\n- Work with engineering and design to deliver features.\n- Analyze user data to make informed decisions.\n- Manage stakeholder expectations.\n\nRequirements:\n- 4+ years of Product Management experience in Fintech.\n- Strong analytical skills (SQL, Amplitude).\n- Experience with Agile/Scrum.\n- Excellent communication skills.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-17T11:33:15.808228",
+    "source": "Indeed",
+    "external_id": "dd0d5930-4eb3-41eb-9e01-6bb03b78c49e"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "company": "Mubadala",
+    "location": "Abu Dhabi, UAE",
+    "description": "Protect critical infrastructure from cyber threats. Monitor SOC alerts, conduct vulnerability assessments, and respond to incidents.\n\nSkills:\n- SIEM (Splunk, QRadar).\n- Network Security (Firewalls, IDS/IPS).\n- Penetration Testing tools (Metasploit, Burp Suite).\n- Incident Response frameworks (NIST).\n\nCertifications:\n- CISSP, CEH, or OSCP preferred.",
+    "salary": "AED 20,000 - 28,000 / Month",
+    "posted_at": "2026-02-17T09:33:15.808231",
+    "source": "NaukriGulf",
+    "external_id": "f0f70bfd-e2c8-426b-95f0-789412ea4f80"
+  },
+  {
+    "title": "Lead DevOps Engineer",
+    "company": "ADNOC",
+    "location": "Dubai, UAE",
+    "description": "ADNOC is the world's leading cloud kitchen platform. We handle massive amounts of food order data.\n\nRole:\n- Build scalable data pipelines (ETL/ELT) using Airflow and dbt.\n- Manage Data Warehouse (Snowflake / BigQuery).\n- Implement real-time data streaming with Kafka.\n- Ensure data quality and governance.\n\nTech:\n- Python, SQL (Advanced).\n- Spark, Kafka, Airflow.\n- AWS/GCP data services.",
+    "salary": "AED 27,000 - 37,000 / Month",
+    "posted_at": "2026-02-17T07:33:15.808235",
+    "source": "LinkedIn",
+    "external_id": "61d3780a-5758-4e6f-a259-cc9d639b013a"
+  },
+  {
+    "title": "Staff Data Engineer",
+    "company": "Careem",
+    "location": "Dubai, UAE",
+    "description": "Careem is the leading classifieds platform. We are rewriting our core services in Python.\n\nRole:\n- Rewrite legacy PHP monoliths into Python Microservices.\n- Maintain high code quality and test coverage.\n- Work with PostgreSQL and Elasticsearch.\n\nRequirements:\n- 3+ years in Python (Django/Flask/FastAPI).\n- Experience with REST APIs and GraphQL.\n- Familiarity with search engines (Elasticsearch/Solr).",
+    "salary": "AED 18,000 - 26,000 / Month",
+    "posted_at": "2026-02-17T05:33:15.808238",
+    "source": "Indeed",
+    "external_id": "a2e4b5f0-c261-4e55-b0dc-4d64b95c5478"
+  },
+  {
+    "title": "Principal AI/ML Engineer",
+    "company": "Talabat",
+    "location": "Dubai, UAE",
+    "description": "Lead the technical direction for Talabat's search experience.\n\nRole:\n- Design high-availability systems.\n- Solve complex distributed system problems.\n- Mentor senior engineers.\n- Drive technical strategy.\n\nRequirements:\n- 10+ years of software engineering.\n- Proven track record of designing systems at scale.\n- Polyglot (Go, Python, PHP, or Java).\n- Deep database knowledge.",
+    "salary": "AED 45,000 - 60,000 / Month",
+    "posted_at": "2026-02-17T03:33:15.808242",
+    "source": "LinkedIn",
+    "external_id": "96c1631d-8317-40f3-8bf6-5f2b3c24c7f6"
+  },
+  {
+    "title": "Junior Product Manager",
+    "company": "Noon",
+    "location": "Dubai, UAE",
+    "description": "About the Role:\nNoon is looking for a Senior Backend Engineer to join our Super App team. You will be responsible for building high-scale microservices that power millions of rides and orders daily.\n\nKey Responsibilities:\n- Design and implement scalable RESTful APIs using Python (FastAPI/Django).\n- Optimize database performance (PostgreSQL, Redis).\n- Work with asynchronous task queues (Celery/RabbitMQ).\n- Collaborate with mobile and frontend teams.\n- Ensure high availability and reliability of services.\n\nRequirements:\n- 5+ years of experience in backend development.\n- Expert in Python, FastAPI, and SQL.\n- Experience with Docker, Kubernetes, and AWS.\n- Strong understanding of distributed systems and microservices.\n- Experience with Event-Driven Architecture (Kafka) is a plus.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-17T01:33:15.808246",
+    "source": "LinkedIn",
+    "external_id": "177aa80a-0bf5-4efd-b9ab-ca0c1cc5b500"
+  },
+  {
+    "title": "Mid-Level Security Engineer",
+    "company": "Emirates Group",
+    "location": "Dubai, UAE",
+    "description": "Join Emirates Group, the leading food delivery platform in the MENA region. We are scaling our tech team and looking for a Full Stack Developer to build delightful user experiences.\n\nWhat you will do:\n- Develop responsive web applications using React.js, TypeScript, and Tailwind CSS.\n- Build robust backend services with Node.js and Express.\n- Integrate with third-party APIs (Maps, Payments).\n- Write clean, testable code (Jest, Cypress).\n\nWhat we look for:\n- 3+ years of full stack experience.\n- Proficiency in JavaScript/TypeScript, React, and Node.js.\n- Experience with MongoDB and PostgreSQL.\n- Familiarity with CI/CD pipelines (GitHub Actions).\n- Passion for UI/UX and performance optimization.",
+    "salary": "AED 18,000 - 25,000 / Month",
+    "posted_at": "2026-02-16T23:33:15.808250",
+    "source": "Indeed",
+    "external_id": "40374b79-0dbd-409a-b254-93519dd528e8"
+  },
+  {
+    "title": "Senior Backend Engineer",
+    "company": "Tabby",
+    "location": "Dubai, UAE",
+    "description": "Tabby IT is seeking a skilled DevOps Engineer to manage our cloud infrastructure and deployment pipelines.\n\nResponsibilities:\n- Manage AWS infrastructure using Terraform (IaC).\n- Automate deployment workflows using Jenkins and GitLab CI.\n- Monitor system health using Prometheus, Grafana, and ELK Stack.\n- Ensure security best practices in cloud environments.\n- Manage Kubernetes clusters (EKS).\n\nQualifications:\n- 4+ years of DevOps/SRE experience.\n- Strong AWS knowledge (EC2, S3, RDS, Lambda, VPC).\n- Proficiency in Linux scripting (Bash/Python).\n- Hands-on experience with Docker and Kubernetes.\n- Certified AWS Solutions Architect is preferred.",
+    "salary": "AED 22,000 - 30,000 / Month",
+    "posted_at": "2026-02-16T21:33:15.808254",
+    "source": "NaukriGulf",
+    "external_id": "8058fc12-4b35-4c89-be2b-38945cb05520"
+  },
+  {
+    "title": "Lead Frontend Engineer",
+    "company": "G42",
+    "location": "Abu Dhabi, UAE",
+    "description": "G42 is at the forefront of AI innovation. We are looking for an AI Engineer to build Large Language Model (LLM) applications.\n\nRole:\n- Fine-tune and deploy LLMs (Llama 3, Mistral) for enterprise use cases.\n- Build RAG (Retrieval Augmented Generation) pipelines using LangChain and Vector Databases (Pinecone/Milvus).\n- Optimize model inference latency.\n- Work with data scientists to productize ML models.\n\nStack:\n- Python, PyTorch, TensorFlow.\n- HuggingFace Transformers, LangChain.\n- Docker, FastAPI for model serving.\n- Cloud: Azure / AWS.\n\nRequirements:\n- Masters in CS/AI or equivalent experience.\n- 3+ years in Machine Learning engineering.\n- Experience with NLP and Generative AI.",
+    "salary": "AED 30,000 - 45,000 / Month",
+    "posted_at": "2026-02-16T19:33:15.808258",
+    "source": "LinkedIn",
+    "external_id": "925cca8e-ef45-40a7-9a85-9e313f05bc5f"
+  },
+  {
+    "title": "Staff Full Stack Engineer",
+    "company": "Kitopi",
+    "location": "Dubai, UAE",
+    "description": "Kitopi is the Middle East's homegrown online marketplace. We are looking for a Senior Frontend Engineer to lead our consumer-facing web team.\n\nResponsibilities:\n- Architect and build scalable frontend applications using Next.js.\n- Optimize Core Web Vitals and SEO performance.\n- Mentor junior developers and conduct code reviews.\n- Collaborate with designers on the Design System.\n\nTech Stack:\n- React, Next.js, Redux/Zustand.\n- SCSS / Tailwind / Styled Components.\n- Webpack / Vite.\n\nRequirements:\n- 5+ years of frontend development.\n- Deep understanding of DOM, CSS, and JS runtime.\n- Experience with high-traffic e-commerce sites.",
+    "salary": "AED 28,000 - 38,000 / Month",
+    "posted_at": "2026-02-16T17:33:15.808261",
+    "source": "LinkedIn",
+    "external_id": "ad9b387d-535f-4110-8773-bf0dd6f2558b"
+  },
+  {
+    "title": "Principal DevOps Engineer",
+    "company": "PropertyFinder",
+    "location": "Dubai, UAE",
+    "description": "PropertyFinder is revolutionizing shopping in MENA. We need a Product Manager to drive our 'Shop Now Pay Later' product.\n\nRole:\n- Define product roadmap and strategy.\n- Work with engineering and design to deliver features.\n- Analyze user data to make informed decisions.\n- Manage stakeholder expectations.\n\nRequirements:\n- 4+ years of Product Management experience in Fintech.\n- Strong analytical skills (SQL, Amplitude).\n- Experience with Agile/Scrum.\n- Excellent communication skills.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-16T15:33:15.808265",
+    "source": "Indeed",
+    "external_id": "5cc80dd9-7b03-4ef4-b04a-84c721aed8db"
+  },
+  {
+    "title": "Junior Data Engineer",
+    "company": "Dubizzle",
+    "location": "Abu Dhabi, UAE",
+    "description": "Protect critical infrastructure from cyber threats. Monitor SOC alerts, conduct vulnerability assessments, and respond to incidents.\n\nSkills:\n- SIEM (Splunk, QRadar).\n- Network Security (Firewalls, IDS/IPS).\n- Penetration Testing tools (Metasploit, Burp Suite).\n- Incident Response frameworks (NIST).\n\nCertifications:\n- CISSP, CEH, or OSCP preferred.",
+    "salary": "AED 20,000 - 28,000 / Month",
+    "posted_at": "2026-02-16T13:33:15.808269",
+    "source": "NaukriGulf",
+    "external_id": "a1f8b264-ac2b-41bc-aff6-d2d640157481"
+  },
+  {
+    "title": "Mid-Level AI/ML Engineer",
+    "company": "DarkMatter",
+    "location": "Dubai, UAE",
+    "description": "DarkMatter is the world's leading cloud kitchen platform. We handle massive amounts of food order data.\n\nRole:\n- Build scalable data pipelines (ETL/ELT) using Airflow and dbt.\n- Manage Data Warehouse (Snowflake / BigQuery).\n- Implement real-time data streaming with Kafka.\n- Ensure data quality and governance.\n\nTech:\n- Python, SQL (Advanced).\n- Spark, Kafka, Airflow.\n- AWS/GCP data services.",
+    "salary": "AED 27,000 - 37,000 / Month",
+    "posted_at": "2026-02-16T11:33:15.808272",
+    "source": "LinkedIn",
+    "external_id": "df440b4c-149d-4c57-b4c6-9480d81c1945"
+  },
+  {
+    "title": "Senior Product Manager",
+    "company": "Etisalat",
+    "location": "Dubai, UAE",
+    "description": "Etisalat is the leading classifieds platform. We are rewriting our core services in Python.\n\nRole:\n- Rewrite legacy PHP monoliths into Python Microservices.\n- Maintain high code quality and test coverage.\n- Work with PostgreSQL and Elasticsearch.\n\nRequirements:\n- 3+ years in Python (Django/Flask/FastAPI).\n- Experience with REST APIs and GraphQL.\n- Familiarity with search engines (Elasticsearch/Solr).",
+    "salary": "AED 18,000 - 26,000 / Month",
+    "posted_at": "2026-02-16T09:33:15.808277",
+    "source": "Indeed",
+    "external_id": "6bd7069b-1e4d-420e-99d4-ae23fabe2da6"
+  },
+  {
+    "title": "Lead Security Engineer",
+    "company": "Du",
+    "location": "Dubai, UAE",
+    "description": "Lead the technical direction for Du's search experience.\n\nRole:\n- Design high-availability systems.\n- Solve complex distributed system problems.\n- Mentor senior engineers.\n- Drive technical strategy.\n\nRequirements:\n- 10+ years of software engineering.\n- Proven track record of designing systems at scale.\n- Polyglot (Go, Python, PHP, or Java).\n- Deep database knowledge.",
+    "salary": "AED 45,000 - 60,000 / Month",
+    "posted_at": "2026-02-16T07:33:15.808283",
+    "source": "LinkedIn",
+    "external_id": "bea4d2ae-aa01-45ee-ac02-26927e373031"
+  },
+  {
+    "title": "Staff Backend Engineer",
+    "company": "Mubadala",
+    "location": "Dubai, UAE",
+    "description": "About the Role:\nMubadala is looking for a Senior Backend Engineer to join our Super App team. You will be responsible for building high-scale microservices that power millions of rides and orders daily.\n\nKey Responsibilities:\n- Design and implement scalable RESTful APIs using Python (FastAPI/Django).\n- Optimize database performance (PostgreSQL, Redis).\n- Work with asynchronous task queues (Celery/RabbitMQ).\n- Collaborate with mobile and frontend teams.\n- Ensure high availability and reliability of services.\n\nRequirements:\n- 5+ years of experience in backend development.\n- Expert in Python, FastAPI, and SQL.\n- Experience with Docker, Kubernetes, and AWS.\n- Strong understanding of distributed systems and microservices.\n- Experience with Event-Driven Architecture (Kafka) is a plus.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-16T05:33:15.808287",
+    "source": "LinkedIn",
+    "external_id": "ce5ad46c-6acd-4cc9-a63f-1f18fca3b9d9"
+  },
+  {
+    "title": "Principal Frontend Engineer",
+    "company": "ADNOC",
+    "location": "Dubai, UAE",
+    "description": "Join ADNOC, the leading food delivery platform in the MENA region. We are scaling our tech team and looking for a Full Stack Developer to build delightful user experiences.\n\nWhat you will do:\n- Develop responsive web applications using React.js, TypeScript, and Tailwind CSS.\n- Build robust backend services with Node.js and Express.\n- Integrate with third-party APIs (Maps, Payments).\n- Write clean, testable code (Jest, Cypress).\n\nWhat we look for:\n- 3+ years of full stack experience.\n- Proficiency in JavaScript/TypeScript, React, and Node.js.\n- Experience with MongoDB and PostgreSQL.\n- Familiarity with CI/CD pipelines (GitHub Actions).\n- Passion for UI/UX and performance optimization.",
+    "salary": "AED 18,000 - 25,000 / Month",
+    "posted_at": "2026-02-16T03:33:15.808290",
+    "source": "Indeed",
+    "external_id": "54322f7a-f7fa-4b96-a7ca-3c34cbc647af"
+  },
+  {
+    "title": "Junior Full Stack Engineer",
+    "company": "Careem",
+    "location": "Dubai, UAE",
+    "description": "Careem IT is seeking a skilled DevOps Engineer to manage our cloud infrastructure and deployment pipelines.\n\nResponsibilities:\n- Manage AWS infrastructure using Terraform (IaC).\n- Automate deployment workflows using Jenkins and GitLab CI.\n- Monitor system health using Prometheus, Grafana, and ELK Stack.\n- Ensure security best practices in cloud environments.\n- Manage Kubernetes clusters (EKS).\n\nQualifications:\n- 4+ years of DevOps/SRE experience.\n- Strong AWS knowledge (EC2, S3, RDS, Lambda, VPC).\n- Proficiency in Linux scripting (Bash/Python).\n- Hands-on experience with Docker and Kubernetes.\n- Certified AWS Solutions Architect is preferred.",
+    "salary": "AED 22,000 - 30,000 / Month",
+    "posted_at": "2026-02-16T01:33:15.808294",
+    "source": "NaukriGulf",
+    "external_id": "aa0590ea-7014-4f9d-bfa9-cd518ed46ba1"
+  },
+  {
+    "title": "Mid-Level DevOps Engineer",
+    "company": "Talabat",
+    "location": "Abu Dhabi, UAE",
+    "description": "Talabat is at the forefront of AI innovation. We are looking for an AI Engineer to build Large Language Model (LLM) applications.\n\nRole:\n- Fine-tune and deploy LLMs (Llama 3, Mistral) for enterprise use cases.\n- Build RAG (Retrieval Augmented Generation) pipelines using LangChain and Vector Databases (Pinecone/Milvus).\n- Optimize model inference latency.\n- Work with data scientists to productize ML models.\n\nStack:\n- Python, PyTorch, TensorFlow.\n- HuggingFace Transformers, LangChain.\n- Docker, FastAPI for model serving.\n- Cloud: Azure / AWS.\n\nRequirements:\n- Masters in CS/AI or equivalent experience.\n- 3+ years in Machine Learning engineering.\n- Experience with NLP and Generative AI.",
+    "salary": "AED 30,000 - 45,000 / Month",
+    "posted_at": "2026-02-15T23:33:15.808298",
+    "source": "LinkedIn",
+    "external_id": "65e917f4-1fb7-42cc-be10-91d999ffb651"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Noon",
+    "location": "Dubai, UAE",
+    "description": "Noon is the Middle East's homegrown online marketplace. We are looking for a Senior Frontend Engineer to lead our consumer-facing web team.\n\nResponsibilities:\n- Architect and build scalable frontend applications using Next.js.\n- Optimize Core Web Vitals and SEO performance.\n- Mentor junior developers and conduct code reviews.\n- Collaborate with designers on the Design System.\n\nTech Stack:\n- React, Next.js, Redux/Zustand.\n- SCSS / Tailwind / Styled Components.\n- Webpack / Vite.\n\nRequirements:\n- 5+ years of frontend development.\n- Deep understanding of DOM, CSS, and JS runtime.\n- Experience with high-traffic e-commerce sites.",
+    "salary": "AED 28,000 - 38,000 / Month",
+    "posted_at": "2026-02-15T21:33:15.808302",
+    "source": "LinkedIn",
+    "external_id": "1637400b-93e5-4bb6-b064-e68ae0ee8e67"
+  },
+  {
+    "title": "Lead AI/ML Engineer",
+    "company": "Emirates Group",
+    "location": "Dubai, UAE",
+    "description": "Emirates Group is revolutionizing shopping in MENA. We need a Product Manager to drive our 'Shop Now Pay Later' product.\n\nRole:\n- Define product roadmap and strategy.\n- Work with engineering and design to deliver features.\n- Analyze user data to make informed decisions.\n- Manage stakeholder expectations.\n\nRequirements:\n- 4+ years of Product Management experience in Fintech.\n- Strong analytical skills (SQL, Amplitude).\n- Experience with Agile/Scrum.\n- Excellent communication skills.",
+    "salary": "AED 25,000 - 35,000 / Month",
+    "posted_at": "2026-02-15T19:33:15.808305",
+    "source": "Indeed",
+    "external_id": "9d8122df-8a1b-4c14-b35b-dca74542d4e9"
+  },
+  {
+    "title": "Staff Product Manager",
+    "company": "Tabby",
+    "location": "Abu Dhabi, UAE",
+    "description": "Protect critical infrastructure from cyber threats. Monitor SOC alerts, conduct vulnerability assessments, and respond to incidents.\n\nSkills:\n- SIEM (Splunk, QRadar).\n- Network Security (Firewalls, IDS/IPS).\n- Penetration Testing tools (Metasploit, Burp Suite).\n- Incident Response frameworks (NIST).\n\nCertifications:\n- CISSP, CEH, or OSCP preferred.",
+    "salary": "AED 20,000 - 28,000 / Month",
+    "posted_at": "2026-02-15T17:33:15.808310",
+    "source": "NaukriGulf",
+    "external_id": "85db1e29-d948-48a9-be81-2a639b05d2e6"
+  },
+  {
+    "title": "Principal Security Engineer",
+    "company": "G42",
+    "location": "Dubai, UAE",
+    "description": "G42 is the world's leading cloud kitchen platform. We handle massive amounts of food order data.\n\nRole:\n- Build scalable data pipelines (ETL/ELT) using Airflow and dbt.\n- Manage Data Warehouse (Snowflake / BigQuery).\n- Implement real-time data streaming with Kafka.\n- Ensure data quality and governance.\n\nTech:\n- Python, SQL (Advanced).\n- Spark, Kafka, Airflow.\n- AWS/GCP data services.",
+    "salary": "AED 27,000 - 37,000 / Month",
+    "posted_at": "2026-02-15T15:33:15.808314",
+    "source": "LinkedIn",
+    "external_id": "0e016958-4cf9-4ba8-bfa7-7b825967a914"
+  },
+  {
+    "title": "Junior Backend Engineer",
+    "company": "Kitopi",
+    "location": "Dubai, UAE",
+    "description": "Kitopi is the leading classifieds platform. We are rewriting our core services in Python.\n\nRole:\n- Rewrite legacy PHP monoliths into Python Microservices.\n- Maintain high code quality and test coverage.\n- Work with PostgreSQL and Elasticsearch.\n\nRequirements:\n- 3+ years in Python (Django/Flask/FastAPI).\n- Experience with REST APIs and GraphQL.\n- Familiarity with search engines (Elasticsearch/Solr).",
+    "salary": "AED 18,000 - 26,000 / Month",
+    "posted_at": "2026-02-15T13:33:15.808317",
+    "source": "Indeed",
+    "external_id": "2b441530-af85-4d39-bee7-0e115813bc48"
+  },
+  {
+    "title": "Mid-Level Frontend Engineer",
+    "company": "PropertyFinder",
+    "location": "Dubai, UAE",
+    "description": "Lead the technical direction for PropertyFinder's search experience.\n\nRole:\n- Design high-availability systems.\n- Solve complex distributed system problems.\n- Mentor senior engineers.\n- Drive technical strategy.\n\nRequirements:\n- 10+ years of software engineering.\n- Proven track record of designing systems at scale.\n- Polyglot (Go, Python, PHP, or Java).\n- Deep database knowledge.",
+    "salary": "AED 45,000 - 60,000 / Month",
+    "posted_at": "2026-02-15T11:33:15.808320",
+    "source": "LinkedIn",
+    "external_id": "484c2fc7-eabc-407b-b26a-91b35624b08b"
+  }
+]

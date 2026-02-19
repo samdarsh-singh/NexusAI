@@ -1,0 +1,25 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+sqlalchemy==2.0.27
+alembic==1.13.1
+# psycopg2-binary removed to avoid build errors
+podman-compose
+
+asyncpg==0.29.0
+motor==3.4.0
+# pymongo<4.0 managed by motor
+
+celery==5.3.6
+redis==5.0.1
+python-multipart==0.0.9
+email-validator>=2.1.0
+pydantic==2.6.1
+pydantic-settings==2.2.1
+httpx==0.26.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+spacy==3.7.2
+openai==1.12.0
+python-dotenv==1.0.1
+anyio==4.2.0
+pdfminer.six==20231228
