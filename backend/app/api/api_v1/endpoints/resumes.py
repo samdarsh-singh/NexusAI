@@ -59,6 +59,22 @@ async def upload_resume(
     
     return resume
 
+@router.get("/latest")
+async def get_latest_resume(db: AsyncSession = Depends(deps.get_db)):
+    """Return the most recently uploaded PARSED resume, or 404 if none exists."""
+    from sqlalchemy import desc
+    result = await db.execute(
+        select(Resume)
+        .filter(Resume.status == "PARSED")
+        .order_by(desc(Resume.uploaded_at))
+        .limit(1)
+    )
+    resume = result.scalars().first()
+    if not resume:
+        raise HTTPException(status_code=404, detail="No parsed resume found")
+    return resume
+
+
 @router.get("/{resume_id}", response_model=ResumeSchema)
 async def get_resume(
     resume_id: str,

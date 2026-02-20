@@ -32,3 +32,4 @@ class Job(Base):
     source = relationship("JobSource", back_populates="jobs")
     ats_scores = relationship("ATSScore", back_populates="job")
     skills = relationship("JobSkill", back_populates="job", cascade="all, delete-orphan")
+    tailored_resumes = relationship("TailoredResume", back_populates="job")

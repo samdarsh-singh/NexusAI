@@ -23,3 +23,4 @@ class Resume(Base):
 
     ats_scores = relationship("ATSScore", back_populates="resume")
     skills = relationship("ResumeSkill", back_populates="resume", cascade="all, delete-orphan")
+    tailored_resumes = relationship("TailoredResume", back_populates="resume")

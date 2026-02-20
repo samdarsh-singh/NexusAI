@@ -88,21 +88,46 @@ async def get_ats_stats(
         "scores": top_scores 
     }
 
-@router.get("/resume/{resume_id}", response_model=List[ATSScoreSchema])
+@router.get("/resume/{resume_id}")
 async def get_scores_for_resume(
     resume_id: str,
     db: AsyncSession = Depends(deps.get_db)
 ):
     """
-    Get all ATS scores for a specific resume.
+    Get all ATS scores for a specific resume, enriched with job title and company name.
     """
+    from app.models.job import Job
+    from app.models.company import Company
+
     try:
         resume_uuid = UUID(resume_id)
-    except:
+    except Exception:
         raise HTTPException(status_code=400, detail="Invalid UUID")
-        
-    result = await db.execute(select(ATSScore).filter(ATSScore.resume_id == resume_uuid))
-    return result.scalars().all()
+
+    result = await db.execute(
+        select(ATSScore, Job.title.label("job_title"), Company.name.label("company_name"))
+        .join(Job, ATSScore.job_id == Job.id)
+        .join(Company, Job.company_id == Company.id)
+        .filter(ATSScore.resume_id == resume_uuid)
+        .order_by(ATSScore.overall_score.desc())
+    )
+
+    return [
+        {
+            "id": str(row.ATSScore.id),
+            "job_id": str(row.ATSScore.job_id),
+            "job_title": row.job_title,
+            "company_name": row.company_name,
+            "overall_score": row.ATSScore.overall_score,
+            "keyword_score": row.ATSScore.keyword_score,
+            "semantic_score": row.ATSScore.semantic_score,
+            "matched_keywords": row.ATSScore.matched_keywords,
+            "missing_keywords": row.ATSScore.missing_keywords,
+            "insights": row.ATSScore.insights,
+            "created_at": row.ATSScore.created_at.isoformat() if row.ATSScore.created_at else None,
+        }
+        for row in result.all()
+    ]
 
 @router.get("/results/{job_id}", response_model=List[ATSScoreSchema])
 async def get_scores_for_job(
