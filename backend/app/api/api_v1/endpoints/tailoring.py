@@ -81,6 +81,41 @@ async def tailor_resume(
 
 
 # ---------------------------------------------------------------------------
+# GET /resumes/tailored  (list all)
+# ---------------------------------------------------------------------------
+
+@router.get("/tailored")
+async def list_tailored_resumes(
+    db: AsyncSession = Depends(deps.get_db),
+):
+    """
+    List all tailored resumes ordered by most recent first.
+    Joins with Job and Company to include display metadata.
+    """
+    result = await db.execute(
+        select(TailoredResume, Job, Company)
+        .join(Job, TailoredResume.job_id == Job.id)
+        .join(Company, Job.company_id == Company.id)
+        .order_by(TailoredResume.created_at.desc())
+    )
+    rows = result.all()
+    return [
+        {
+            "id": str(t.id),
+            "resume_id": str(t.resume_id),
+            "job_id": str(t.job_id),
+            "job_title": j.title,
+            "company_name": c.name,
+            "status": t.status,
+            "ats_score_before": t.ats_score_before,
+            "ats_score_after": t.ats_score_after,
+            "created_at": t.created_at.isoformat() if t.created_at else None,
+        }
+        for t, j, c in rows
+    ]
+
+
+# ---------------------------------------------------------------------------
 # GET /resumes/tailored/{id}
 # ---------------------------------------------------------------------------
 
